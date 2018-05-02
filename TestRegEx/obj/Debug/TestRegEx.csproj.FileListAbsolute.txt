@@ -1,0 +1,7 @@
+c:\users\tim\source\repos\TestRegEx\TestRegEx\bin\Debug\TestRegEx.exe.config
+c:\users\tim\source\repos\TestRegEx\TestRegEx\bin\Debug\TestRegEx.exe
+c:\users\tim\source\repos\TestRegEx\TestRegEx\bin\Debug\TestRegEx.pdb
+c:\users\tim\source\repos\TestRegEx\TestRegEx\obj\Debug\TestRegEx.csprojResolveAssemblyReference.cache
+c:\users\tim\source\repos\TestRegEx\TestRegEx\obj\Debug\TestRegEx.csproj.CoreCompileInputs.cache
+c:\users\tim\source\repos\TestRegEx\TestRegEx\obj\Debug\TestRegEx.exe
+c:\users\tim\source\repos\TestRegEx\TestRegEx\obj\Debug\TestRegEx.pdb
